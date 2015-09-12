@@ -1,0 +1,26 @@
+{
+  "name": "learning-hapi",
+  "version": "0.0.0",
+  "description": "Training kit for Hapi - a node.js framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegdeashwin/learning-hapi.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "framework",
+    "hapi"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hegdeashwin/learning-hapi/issues"
+  },
+  "homepage": "https://github.com/hegdeashwin/learning-hapi#readme",
+  "dependencies": {
+    "hapi": "^9.1.0",
+    "inert": "^3.0.1"
+  },
+  "devDependencies": {}
+}
