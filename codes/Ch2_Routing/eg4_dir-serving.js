@@ -42,7 +42,7 @@ server.register(require('inert'), function(error) {
 		handler: {
 			directory: {
 				path: './src/',
-				listing: true
+				listing: true		// Not recommended; just to demo purpose
 			}
 		}
 	});
