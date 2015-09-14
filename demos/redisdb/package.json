@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/hegdeashwin/learning-hapi#readme",
   "dependencies": {
-    "hapi": "^10.0.0"
+    "hapi": "^10.0.0",
+    "ioredis": "^1.8.0",
+    "redis": "^1.0.0"
   },
   "engines": {
     "node": ">= 0.12.0",

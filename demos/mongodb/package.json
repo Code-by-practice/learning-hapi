@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/hegdeashwin/learning-hapi#readme",
   "dependencies": {
-    "hapi": "^10.0.0"
+    "hapi": "^10.0.0",
+    "mongodb": "^2.0.42"
   },
   "engines": {
     "node": ">= 0.12.0",
