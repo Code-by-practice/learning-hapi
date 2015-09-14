@@ -1,0 +1,31 @@
+{
+  "name": "learning-hapi-rethinkdb-demo",
+  "version": "0.0.0",
+  "description": "hapi - rethingdb integration demo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegdeashwin/learning-hapi.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "learning",
+    "training",
+    "hapi",
+    "framework",
+    "hapi-rethinkdb"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hegdeashwin/learning-hapi/issues"
+  },
+  "homepage": "https://github.com/hegdeashwin/learning-hapi#readme",
+  "dependencies": {
+    "hapi": "^10.0.0"
+  },
+  "engines": {
+    "node": ">= 0.12.0",
+    "iojs": ">= 1.0.0"
+  }
+}
